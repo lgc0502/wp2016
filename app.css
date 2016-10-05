@@ -1,14 +1,15 @@
 
-aa {
+.title {
   color: #880000;
   text-align:left;
 
 }
-h2 {
+.text {
   color:black;
   text-align: left;
 }
-h3 {
+.move {
   color: #FF0000;
-  size: 200;
+  background-color : #FFEE99
+  size: 15;
 }
