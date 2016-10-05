@@ -3,7 +3,8 @@ body {
 }
 aa {
   color: #880000;
-  size:50;
+  text-align:right;
+  size:2;
 }
 h2 {
   color: rgb(0, 255, 0);
